@@ -1,6 +1,10 @@
 # 📊 Call Center Report Dashboard – 2023  
 
-This dashboard, designed in **Excel**, provides a comprehensive overview of call center performance for the year 2023. It highlights operational efficiency, customer satisfaction, and revenue contributions across regions and representatives.  
+This dashboard, designed in **Excel**, provides a comprehensive overview of call center performance for the year 2023. It highlights operational efficiency, customer satisfaction, and revenue contributions across regions and representatives. 
+
+
+<img width="843" height="417" alt="image" src="https://github.com/user-attachments/assets/4f8f446a-64ed-46db-8657-47e1253a8573" />
+
 
 ## 📌 Features  
 
